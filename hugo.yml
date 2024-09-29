@@ -1,0 +1,6 @@
+baseURL: "https://asaadkhaja99.github.io/portfolio/"
+languageCode : 'en-us'
+title : 'My New Hugo Site'
+theme: PaperMod
+
+metadataformat: "yaml"
