@@ -21,10 +21,10 @@ jobs:
           ref: gh-pages
           path: built-site
 
-      - name: Setup Node.js 20
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
+      # - name: Setup Node.js 20
+      #   uses: actions/setup-node@v3
+      #   with:
+      #     node-version: '20'
 
       - name: Setup Hugo
         run: |
