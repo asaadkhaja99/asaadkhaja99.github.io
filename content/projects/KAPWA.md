@@ -9,7 +9,7 @@ weight: 203
 cover:
     image: "A legal chatbot"
 --- 
-### 🔗 [Colab Notebook](https://colab.research.google.com/drive/1Q553uslYW3Ho6P1G46SOEDxOS_VmHXfJ)
+### 🔗 [Demo Link](https://colab.research.google.com/drive/1Q553uslYW3Ho6P1G46SOEDxOS_VmHXfJ)
 
 ## Description
 In this project, I implemented the paper **[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044)**. The neural network, a combination of **CNN** and **LSTM**, was trained on the **MS COCO** dataset and it learns to generate captions from images. 

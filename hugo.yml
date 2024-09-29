@@ -4,6 +4,10 @@ title : 'Shaik Asaaduddin Khwaja'
 theme: PaperMod
 metadataformat: "yaml"
 
+
+
+
+
 menu:
   main:
     - identifier: home
@@ -42,14 +46,27 @@ params:
   # for enchanced SEO
   env: production
 
+  enableInlineShortcodes: true
+  enableRobotsTXT: true
+  buildDrafts: false
+  buildFuture: false
+  buildExpired: false
+  enableEmoji: true
+  pygmentsUseClasses: true
+
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+
   # Home Page
   profileMode:
     enabled: true
     title: "Shaik Asaaduddin Khwaja"
     subtitle: "BA (Hons) Physics (Cantab) | Singaporean | Passionate about data and ML"
     imageUrl: "./home/profile.jpg"
-    imageWidth: 300
-    imageHeight: 300
+    imageWidth: 320
+    imageHeight: 320
     buttons:
       - name: Resume/CV
         url: Resume.pdf
