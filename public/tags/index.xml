@@ -22,10 +22,10 @@
       <description></description>
     </item>
     <item>
-      <title>Certification</title>
-      <link>http://localhost:1313/tags/certification/</link>
+      <title>Classification</title>
+      <link>http://localhost:1313/tags/classification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/certification/</guid>
+      <guid>http://localhost:1313/tags/classification/</guid>
       <description></description>
     </item>
     <item>
@@ -43,20 +43,6 @@
       <description></description>
     </item>
     <item>
-      <title>Developer</title>
-      <link>http://localhost:1313/tags/developer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/developer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Developer Associate</title>
-      <link>http://localhost:1313/tags/developer-associate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/developer-associate/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>DL</title>
       <link>http://localhost:1313/tags/dl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -64,17 +50,17 @@
       <description></description>
     </item>
     <item>
-      <title>DVA</title>
-      <link>http://localhost:1313/tags/dva/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dva/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Google Maps&#34;</title>
       <link>http://localhost:1313/tags/google-maps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/google-maps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gradient Descent</title>
+      <link>http://localhost:1313/tags/gradient-descent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gradient-descent/</guid>
       <description></description>
     </item>
     <item>
@@ -103,6 +89,41 @@
       <link>http://localhost:1313/tags/pytorch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recommender Systems</title>
+      <link>http://localhost:1313/tags/recommender-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/recommender-systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regression</title>
+      <link>http://localhost:1313/tags/regression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/regression/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>http://localhost:1313/tags/reinforcement-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supervised Learning</title>
+      <link>http://localhost:1313/tags/supervised-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/supervised-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unsupervised Learning</title>
+      <link>http://localhost:1313/tags/unsupervised-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
   </channel>
