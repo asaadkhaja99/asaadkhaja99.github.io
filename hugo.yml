@@ -10,30 +10,26 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
+    - identifier: experience
+      name: Experience
+      url: /experience
       weight: 20
     - identifier: projects
       name: Projects
       url: /projects
       weight: 30
-    - identifier: experience
-      name: Experience
-      url: /experience
+    - identifier: certifications
+      name: Certifications
+      url: /certifications
       weight: 40
-    - identifier: search
-      name: Search
-      url: /search
+    # - identifier: blog
+    #   name: Blog
+    #   url: /blog
+    #   weight: 50
+    - identifier: tags
+      name: Tags
+      url: /tags
       weight: 50
-    # - identifier: tags
-    #   name: Tags
-    #   url: /tags
-    #   weight: 60
-    # - identifier: notes
-    #   name: Notes
-    #   url: https://notes.arkalim.org
-    #   weight: 70
 
 params:
   # theme
@@ -44,21 +40,20 @@ params:
   hideMeta: false
 
   # for enchanced SEO
-  env: development
+  env: production
 
   # Home Page
   profileMode:
     enabled: true
-    title: "Hi, nice to meet you!"
-    subtitle: I am recent Cambridge physics graduate passionate about data, machine learning and solving real-life problems. Drop me a note if you would like to connect!
+    title: "Shaik Asaaduddin Khwaja"
+    subtitle: "BA (Hons) Physics (Cantab) | Singaporean | Passionate about data and ML"
 
- 
-    imageUrl: "home/casual-small-square.jpeg"
-    imageWidth: 220
-    imageHeight: 220
-    # buttons:
-    #   - name: Resume
-    #     url: ""
+    imageUrl: "home/profile.jpg"
+    imageWidth: 300
+    imageHeight: 300
+    buttons:
+      - name: Resume/CV
+        url: Resume.pdf
 
   # List View
   hideDescriptionInList: false
@@ -76,26 +71,6 @@ params:
     - name: "github"
       url: "https://github.com/asaadkhaja99"
 
-  assets:
-    css: 
-      - css/custom.css
-
-  # text search
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
-
-# for search using Fuse.js
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
 
 # allow HTML in MD
 markup:

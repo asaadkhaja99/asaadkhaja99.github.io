@@ -1,9 +1,0 @@
-/* Custom CSS to align profile picture and title to the left */
-.brand-logo {
-    text-align: left; /* Aligns the image */
-    margin-right: auto; /* Adjust margin if necessary */
-}
-
-.brand {
-    text-align: left; /* Aligns the title */
-}
