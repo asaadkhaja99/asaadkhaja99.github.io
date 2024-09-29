@@ -47,7 +47,7 @@ params:
     enabled: true
     title: "Shaik Asaaduddin Khwaja"
     subtitle: "BA (Hons) Physics (Cantab) | Singaporean | Passionate about data and ML"
-    imageUrl: /profile.jpg
+    imageUrl: "/profile.jpg"
     imageWidth: 300
     imageHeight: 300
     buttons:
