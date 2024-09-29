@@ -1,13 +1,13 @@
 ---
-title: "KAPWA"
-description: "A ChatBot that can provide personalised legal assistance"
-dateString: June 2024
+title: "Options Pricing Using Monte-Carlo and Black-Scholes Model"
+description: "A deep dive into implementing the Black-Scholes and Monte Carlo options pricing models and comparing their results against real data"
+dateString: July 2024
 draft: false
 tags: ["ChatGPT", "LLMs", "NLP", "Prompt Engineering"]
 showToc: false
 weight: 203
 cover:
-    image: "./projects/Kapwa_demo.png"
+    image: "./projects/BS_model.png"
 --- 
 ### 🔗 [Demo Link](https://chatgpt.com/share/66e951ef-9a0c-8007-bb1e-ab8aa9db2dea)
 

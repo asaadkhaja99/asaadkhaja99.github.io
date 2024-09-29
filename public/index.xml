@@ -26,7 +26,14 @@
       <link>http://localhost:1313/projects/kapwa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/kapwa/</guid>
-      <description>Can computers summarize the contents of an image?</description>
+      <description>A ChatBot that can provide personalised legal assistance</description>
+    </item>
+    <item>
+      <title>Options Pricing Using Monte-Carlo and Black-Scholes Model</title>
+      <link>http://localhost:1313/projects/options_pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/options_pricing/</guid>
+      <description>A deep dive into implementing the Black-Scholes and Monte Carlo options pricing models and comparing their results against real data</description>
     </item>
     <item>
       <title>Software Engineer Intern</title>
