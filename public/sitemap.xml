@@ -4,15 +4,17 @@
   <url>
     <loc>http://localhost:1313/certifications/aws/</loc>
   </url><url>
+    <loc>http://localhost:1313/certifications/dbt/</loc>
+  </url><url>
     <loc>http://localhost:1313/certifications/ml_specialisation/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/kapwa/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/options_pricing/</loc>
+  </url><url>
     <loc>http://localhost:1313/experience/hackbridge/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/urop/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/aws/</loc>
   </url><url>
@@ -20,13 +22,11 @@
   </url><url>
     <loc>http://localhost:1313/certifications/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/chatgpt/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/classification/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cnn/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/crnn/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/dl/</loc>
+    <loc>http://localhost:1313/tags/dbt/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/</loc>
   </url><url>
@@ -36,13 +36,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/linux/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/lstm/</loc>
+    <loc>http://localhost:1313/tags/llms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/nlp/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>http://localhost:1313/tags/prompt-engineering/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/pytorch/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/recommender-systems/</loc>
   </url><url>
