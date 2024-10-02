@@ -12,19 +12,19 @@ menu:
   main:
     - identifier: home
       name: Home
-      url: /
+      url: ./
       weight: 10
     - identifier: experience
       name: Experience
-      url: /experience
+      url: ./experience
       weight: 20
     - identifier: projects
       name: Projects
-      url: /projects
+      url: ./projects
       weight: 30
     - identifier: certifications
       name: Certifications
-      url: /certifications
+      url: ./certifications
       weight: 40
     # - identifier: blog
     #   name: Blog
@@ -32,7 +32,7 @@ menu:
     #   weight: 50
     - identifier: tags
       name: Tags
-      url: /tags
+      url: ./tags
       weight: 50
 
 params:
@@ -69,7 +69,7 @@ params:
     imageHeight: 320
     buttons:
       - name: Resume/CV
-        url: Resume.pdf
+        url: ./Shaik_Asaaduddin_Khwaja-Resume.pdf
 
   # List View
   hideDescriptionInList: false

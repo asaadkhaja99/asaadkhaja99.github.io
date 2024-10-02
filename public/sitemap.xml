@@ -40,6 +40,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/nlp/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/numpy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/pandas/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/prompt-engineering/</loc>
@@ -52,11 +56,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/reinforcement-learning/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/scipy/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/supervised-learning/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/tkinter/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/unsupervised-learning/</loc>
   </url>
