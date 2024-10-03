@@ -29,6 +29,13 @@
       <description>A course covering the theoretical basics of machine learning</description>
     </item>
     <item>
+      <title>Inspection of Coated Hydrogen Transportation Pipelines</title>
+      <link>http://localhost:1313/projects/hydrogen_inspection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hydrogen_inspection/</guid>
+      <description>Published research review I co-wrote with my then Materials Science supervisor, Dr Shiladitya Paul</description>
+    </item>
+    <item>
       <title>Kaggle: Binary Prediction of Poisonous Mushrooms</title>
       <link>http://localhost:1313/projects/mushroom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +48,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/kapwa/</guid>
       <description>A ChatBot that can provide personalised legal assistance</description>
+    </item>
+    <item>
+      <title>NISQ Quantum Computing: Why it persists and what can we do with it?</title>
+      <link>http://localhost:1313/projects/quantumcomputing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quantumcomputing/</guid>
+      <description>A research review covering NISQ quantum computing applications I wrote as part of my coursework.</description>
     </item>
     <item>
       <title>Options Pricing Using Monte-Carlo and the Black-Scholes Model</title>

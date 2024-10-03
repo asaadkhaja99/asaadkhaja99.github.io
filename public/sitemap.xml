@@ -12,6 +12,8 @@
   </url><url>
     <loc>http://localhost:1313/projects/kapwa/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/quantumcomputing/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/options_pricing/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/hackbridge/</loc>
@@ -54,6 +56,10 @@
   </url><url>
     <loc>http://localhost:1313/tags/monte-carlo-simulation/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/nisq/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/nisq-algorithms/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/nlp/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/numpy/</loc>
@@ -62,11 +68,17 @@
   </url><url>
     <loc>http://localhost:1313/tags/pandas/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/physics/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/prompt-engineering/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/python/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/quantum-computing/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/quantum-machine-learning/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/recommender-systems/</loc>
   </url><url>
