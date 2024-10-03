@@ -55,7 +55,7 @@ params:
   pygmentsUseClasses: true
 
   defaultTheme: dark
-  disableThemeToggle: true
+  disableThemeToggle: false
   ShowShareButtons: true
   ShowReadingTime: true
 
