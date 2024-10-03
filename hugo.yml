@@ -41,7 +41,7 @@ params:
   TocOpen: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  hideMeta: false
+  hideMeta: true
 
   # for enchanced SEO
   env: production
