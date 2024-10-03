@@ -15,6 +15,13 @@
       <description></description>
     </item>
     <item>
+      <title>Binary Classification</title>
+      <link>http://localhost:1313/tags/binary-classification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/binary-classification/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>ChatGPT</title>
       <link>http://localhost:1313/tags/chatgpt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,10 +36,38 @@
       <description></description>
     </item>
     <item>
+      <title>Cross Validation</title>
+      <link>http://localhost:1313/tags/cross-validation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cross-validation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Dbt</title>
       <link>http://localhost:1313/tags/dbt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/dbt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decision Trees</title>
+      <link>http://localhost:1313/tags/decision-trees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/decision-trees/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exploratory Data Analysis</title>
+      <link>http://localhost:1313/tags/exploratory-data-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/exploratory-data-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>F1 Score</title>
+      <link>http://localhost:1313/tags/f1-score/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/f1-score/</guid>
       <description></description>
     </item>
     <item>
@@ -64,6 +99,20 @@
       <description></description>
     </item>
     <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monte Carlo Simulation</title>
+      <link>http://localhost:1313/tags/monte-carlo-simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/monte-carlo-simulation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>NLP</title>
       <link>http://localhost:1313/tags/nlp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -75,6 +124,13 @@
       <link>http://localhost:1313/tags/numpy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/numpy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Options Pricing</title>
+      <link>http://localhost:1313/tags/options-pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/options-pricing/</guid>
       <description></description>
     </item>
     <item>
@@ -117,6 +173,13 @@
       <link>http://localhost:1313/tags/reinforcement-learning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scikit-Learn</title>
+      <link>http://localhost:1313/tags/scikit-learn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/scikit-learn/</guid>
       <description></description>
     </item>
     <item>
