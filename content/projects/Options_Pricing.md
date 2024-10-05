@@ -8,6 +8,7 @@ showToc: false
 weight: 203
 cover:
     image: "./projects/BS_model.png"
+rank: 2
 --- 
 ### 🔗 [Github Repository](https://github.com/asaadkhaja99/MC_Options_Pricing)
 

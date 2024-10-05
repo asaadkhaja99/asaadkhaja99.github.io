@@ -8,6 +8,7 @@ showToc: false
 weight: 203
 cover:
     image: "./projects/mushroom.png"
+rank: 1
 --- 
 ### 🔗 [Github](https://github.com/asaadkhaja99/Kaggle-Poisonous-Mushroom-Classification.git)
 

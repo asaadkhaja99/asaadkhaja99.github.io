@@ -1,13 +1,14 @@
 ---
 title: "Inspection of Coated Hydrogen Transportation Pipelines"
 description: "Published research review I co-wrote with my then Materials Science supervisor, Dr Shiladitya Paul"
-dateString: Sep 2024
+dateString: Aug 2022
 draft: false
 tags: ["hydrogen", "hydrogen pipelines", "inspection", "NDT", "NDE", "pipeline transport"]
 showToc: false
 weight: 203
 cover:
     image: "./projects/ichp.png"
+rank: 5
 --- 
 ### 🔗 [Read the research review](https://www.mdpi.com/2076-3417/12/19/9503)
 

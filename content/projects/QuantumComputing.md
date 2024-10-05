@@ -1,13 +1,14 @@
 ---
 title: "NISQ Quantum Computing: Why it persists and what can we do with it?"
 description: "A research review covering NISQ quantum computing applications I wrote as part of my coursework."
-dateString: Sep 2024
+dateString: Apr 2024
 draft: false
 tags: ["Physics", "Quantum Computing", "NISQ", "Quantum Machine Learning", "NISQ Algorithms"]
 showToc: false
 weight: 203
 cover:
     image: "./projects/nisq_cover.png"
+rank: 4
 --- 
 ### 🔗 [Read the research review](https://drive.google.com/file/d/1N0mNTI1vjAs1axsaw85BQoSqdqN31-OJ/view?usp=sharing)
 

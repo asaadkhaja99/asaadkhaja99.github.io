@@ -8,6 +8,7 @@ showToc: false
 weight: 203
 cover:
     image: "./projects/Kapwa_demo.png"
+rank: 3
 --- 
 ### 🔗 [Demo Link](https://chatgpt.com/share/66e951ef-9a0c-8007-bb1e-ab8aa9db2dea)
 

@@ -7,4 +7,5 @@ tags: ["AWS"]
 weight: 101
 cover:
     image: "./certifications/AWS_Cloud_P_Essentials.png"
+rank: 3
 ---

@@ -7,6 +7,7 @@ tags: ["Supervised Learning", "Regression", "Classification", "Gradient Descent"
 weight: 101
 cover:
     image: "./certifications/DeepLearning_AI_ML_Specialisation.png"
+rank: 1
 ---
 
 # Credentials

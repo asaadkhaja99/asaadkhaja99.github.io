@@ -7,4 +7,5 @@ tags: ["dbt"]
 weight: 101
 cover:
     image: "./certifications/dbt.png"
+rank: 2
 ---

@@ -6,6 +6,7 @@ draft: false
 tags: ["Python", "SciPy", "NumPy", "Pandas", "Tkinter"]
 showToc: false
 weight: 302
+rank: 1
 --- 
 
 ### Description
