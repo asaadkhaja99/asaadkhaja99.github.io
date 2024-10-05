@@ -1,7 +1,7 @@
 ---
 title: "Undergraduate Research Intern"
 description: "Department of Physics, University of Cambridge | Cambridge, United Kingdom"
-dateString: Aug 2022 - Sep 2022
+dateString: Jun 2023 - Sep 2023
 draft: false
 tags: ["Python", "SciPy", "NumPy", "Pandas", "Tkinter"]
 showToc: false
