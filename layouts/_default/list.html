@@ -42,7 +42,10 @@
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- end }}
 
-{{- $paginator := .Paginate $pages }}
+<!-- Sort the pages by the rank parameter in ascending order -->
+{{- $sortedPages := sort $pages ".Params.rank" "asc" }}
+
+{{- $paginator := .Paginate $sortedPages }}
 
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
@@ -68,18 +71,19 @@
             {{- .Title }}
             {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
         </h2>
-        {{- if .Params.dateString }} <!-- Check if the dateString property exists -->
+        {{- if .Params.dateString }}
         <div class="date-string">
-            {{ .Params.dateString }} <!-- Display the dateString -->
+            {{ .Params.dateString }}
         </div>
         {{- end }}
     </header>
-    <!-- Added a custom param hideDescriptionInList  -->
+
     {{- if (ne (.Param "hideDescriptionInList") true) }}
     <div class="entry-content">
         <p>{{ .Description }}</p>
     </div>
     {{- end }}
+
     {{- if not (.Param "hideMeta") }}
     <footer class="entry-footer">
         {{- partial "post_meta.html" . -}}
