@@ -85,6 +85,27 @@
       <description></description>
     </item>
     <item>
+      <title>Hydrogen</title>
+      <link>http://localhost:1313/tags/hydrogen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hydrogen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hydrogen Pipelines</title>
+      <link>http://localhost:1313/tags/hydrogen-pipelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hydrogen-pipelines/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inspection</title>
+      <link>http://localhost:1313/tags/inspection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/inspection/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Linux</title>
       <link>http://localhost:1313/tags/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -110,6 +131,20 @@
       <link>http://localhost:1313/tags/monte-carlo-simulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/monte-carlo-simulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NDE</title>
+      <link>http://localhost:1313/tags/nde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nde/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NDT</title>
+      <link>http://localhost:1313/tags/ndt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ndt/</guid>
       <description></description>
     </item>
     <item>
@@ -159,6 +194,13 @@
       <link>http://localhost:1313/tags/physics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pipeline Transport</title>
+      <link>http://localhost:1313/tags/pipeline-transport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pipeline-transport/</guid>
       <description></description>
     </item>
     <item>

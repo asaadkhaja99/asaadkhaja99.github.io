@@ -8,6 +8,8 @@
   </url><url>
     <loc>http://localhost:1313/certifications/ml_specialisation/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/hydrogen_inspection/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/mushroom/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/kapwa/</loc>
@@ -48,6 +50,12 @@
   </url><url>
     <loc>http://localhost:1313/tags/gradient-descent/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/hydrogen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/hydrogen-pipelines/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/inspection/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/linux/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/llms/</loc>
@@ -55,6 +63,10 @@
     <loc>http://localhost:1313/tags/machine-learning/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/monte-carlo-simulation/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/nde/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/ndt/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/nisq/</loc>
   </url><url>
@@ -69,6 +81,8 @@
     <loc>http://localhost:1313/tags/pandas/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/physics/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/pipeline-transport/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
