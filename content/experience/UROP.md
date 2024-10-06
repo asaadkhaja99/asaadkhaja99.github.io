@@ -17,7 +17,7 @@ demonstrations, to effectively explain and demonstrate concepts such as Fast Fou
 - Conducted thorough data analysis of 3 existing experiments to identify over 4 previously undocumented sources of error
 and devised modifications to fix these errors
 - Used Pandas to automate the results processing phase of a experimental demonstration reducing processing time by 50%
-- Developed a GUI application using Tkinter to allow automatic curve fitting of a [hysteresis loop](https://www.nde-ed.org/Physics/Magnetism/HysteresisLoop.xhtml)
+- Developed a GUI application using Tkinter to allow curve fitting of a [hysteresis loop](https://www.nde-ed.org/Physics/Magnetism/HysteresisLoop.xhtml)
 
 <!-- - Developed a multi-stage LLM pipeline using Llama3 to extract key information from X-Ray report images, leading to the creation of a new product in our suite.
 - Architected and developed a cloud-native version of the product on Kubernetes and packaged it as a Helm chart for ease of deployment, distribution and versioning. 
