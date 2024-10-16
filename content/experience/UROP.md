@@ -10,12 +10,9 @@ rank: 1
 --- 
 
 ### Description
-- Refined the department’s experimental physics teaching resources, conceptualizing 2 new projects and implementing
-improvements in 3 existing projects
-- Developed 2 new Python demonstrations and re-factored 2 existing demonstrations, doubling the extent of current physics
-demonstrations, to effectively explain and demonstrate concepts such as Fast Fourier Transforms and Diffraction
-- Conducted thorough data analysis of 3 existing experiments to identify over 4 previously undocumented sources of error
-and devised modifications to fix these errors
+- Refined the department’s experimental physics teaching resources, conceptualizing 2 new projects and implementing improvements in 3 existing projects
+- Developed 2 new Python demonstrations and re-factored 2 existing demonstrations to effectively explain and demonstrate concepts such as Fast Fourier Transforms and Diffraction
+- Conducted thorough data analysis of 3 existing experiments to identify over 4 previously undocumented sources of error and devised modifications to fix these errors
 - Used Pandas to automate the results processing phase of a experimental demonstration reducing processing time by 50%
 - Developed a GUI application using Tkinter to allow curve fitting of a [hysteresis loop](https://www.nde-ed.org/Physics/Magnetism/HysteresisLoop.xhtml)
 

@@ -69,7 +69,7 @@ params:
     imageHeight: 320
     buttons:
       - name: Resume/CV
-        url: /Shaik_Asaaduddin_Khwja_Resume.pdf
+        url: /Shaik_Asaaduddin_Khwaja_Resume.pdf
 
   # List View
   hideDescriptionInList: false

@@ -3,7 +3,7 @@ title: "Software Engineer Intern"
 description: "CowTown (sourced through Hackbridge) | Cambridge, United Kingdom"
 dateString: Aug 2022 - Sep 2022
 draft: false
-tags: ["Python", "Linux", Google Maps"]
+tags: ["Python", "Google Maps"]
 showToc: false
 weight: 302
 rank: 2
