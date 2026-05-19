@@ -6,9 +6,11 @@ export function Blog() {
     <main className="page subpage">
       <StickyBanner sticky={false} />
       <section className="notes-index" aria-labelledby="blog-index-heading">
-        <div className="section-label">blog</div>
+        <div className="section-label">Blog</div>
         <div>
-          <h1 id="blog-index-heading">all posts</h1>
+          <h1 className="blog-index-title" id="blog-index-heading">
+            All Posts
+          </h1>
           <NotesList />
         </div>
       </section>

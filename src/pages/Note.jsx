@@ -10,6 +10,8 @@ export function Note() {
 
   if (!note) return <Navigate to="/404" replace />;
 
+  const hasUpdatedDate = note.updated && note.updated !== note.date;
+
   return (
     <main className="page subpage">
       <StickyBanner sticky={false} />
@@ -21,7 +23,7 @@ export function Note() {
           <h1>{note.title}</h1>
           <div className="article-dates" aria-label="published and updated dates">
             <time>{note.date}</time>
-            <time>{note.updated}</time>
+            {hasUpdatedDate && <time>Updated: {note.updated}</time>}
           </div>
         </header>
         <div className="article-body">
