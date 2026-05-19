@@ -1,4 +1,4 @@
-import { HashRouter, Navigate, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import { ScrollToTop } from './components/ScrollToTop';
 import { Home } from './pages/Home';
 import { Blog } from './pages/Blog';
@@ -8,7 +8,7 @@ import { Resume } from './pages/Resume';
 
 export function App() {
   return (
-    <HashRouter>
+    <BrowserRouter>
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -18,6 +18,6 @@ export function App() {
         <Route path="/404" element={<NotFound />} />
         <Route path="*" element={<Navigate to="/404" replace />} />
       </Routes>
-    </HashRouter>
+    </BrowserRouter>
   );
 }
