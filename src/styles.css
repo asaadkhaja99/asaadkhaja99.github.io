@@ -242,15 +242,6 @@ a:focus-visible {
   font-size: clamp(64px, 7vw, 104px);
 }
 
-.notes-index .blog-index-title {
-  margin-bottom: 40px;
-  font-family: inherit;
-  font-size: 32px;
-  font-weight: 700;
-  letter-spacing: normal;
-  line-height: 42px;
-}
-
 .article-page {
   display: flex;
   flex-direction: column;
@@ -606,12 +597,6 @@ a:focus-visible {
   .not-found h1 {
     margin-bottom: 36px;
     font-size: clamp(58px, 16vw, 70px);
-  }
-
-  .notes-index .blog-index-title {
-    margin-bottom: 32px;
-    font-size: 28px;
-    line-height: 36px;
   }
 
   .article-page {
